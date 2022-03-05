@@ -1,5 +1,4 @@
 # Rovae_Richa_Portfolio
-<p>This is Portfolio of our Giveaway Client - <b>Richa Shah.</b></p>
 <p>Template Downloaded from Envato Elements - Licence name - <b>Rovae_Richa_Shah</b></p>
 
 -------------------------------------------------------------------------------------------
